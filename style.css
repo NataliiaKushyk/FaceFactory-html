@@ -1,0 +1,122 @@
+.logoImg {
+    width: 130px;
+    padding: 20px;
+
+}
+
+.logoFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header ul {
+    padding: 0;
+
+}
+
+header ul li {
+    display: inline-block;
+    margin-top: 4px;
+
+    position: relative;
+
+}
+
+header ul li a {
+    background: #ffecd7;
+    color: #5d5656;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: #ffa382;
+}
+
+p.descriptionText {
+    text-align: center;
+    font-size: 20px;
+    color: #5d5656;
+
+}
+
+.interior1Image {
+    width: 700px;
+}
+
+.imageFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/*p.welcome {text-align: center;
+	       font-size: 40px;
+	       color:  #f17e75;
+}
+*/
+h2 {
+    text-align: center;
+    font-size: 33px;
+    color: #ffa382;
+}
+
+p.services {
+    color: #ffa382;
+    font-weight: bold;
+
+}
+
+p.menuTitles {
+    text-align: center;
+    font-size: 33px;
+    color: #ffa382;
+    font-weight: bold;
+}
+
+p.giftSertificatesText {
+    text-align: center;
+    font-size: 20px;
+    color: #5d5656;
+}
+
+
+p.specialEventsText {
+    text-align: center;
+    font-size: 20px;
+    color: #5d5656;
+}
+
+p.ourContacts {
+    /* text-align: center*/
+    ;
+    font-size: 20px;
+    color: #ffa382;
+    font-weight: bold;
+
+
+}
+
+p.ourContactsText {
+    font-size: 20px;
+    color: #5d5656;
+}
+
+p.registerOnline {
+    font-size: 20px;
+    color: #ffa382;
+    font-weight: bold;
+
+}
+
+
+
+p.footer { color: #968d8d;
+    text-align: center;
+}
